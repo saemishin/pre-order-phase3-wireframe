@@ -1,6 +1,7 @@
 # As-is 이미지 출처
 
-- Figma 기존 디자인을 내보내거나 캔버스에서 해당 화면만 캡처한 이미지입니다. 실제 운영 화면을 새로 촬영한 자료는 아닙니다.
+- 대부분 Figma 기존 디자인을 내보내거나 캔버스에서 해당 화면을 캡처한 이미지입니다.
+- `web-preorder-settings.jpg`는 2026-11-25 현재 대시보드의 Pre-order > Settings 탭을 직접 캡처했습니다. 기능 설정 > 프리오더 원본의 잘못된 연결을 교체했습니다.
 - 사용자 시나리오·화면별 탐색에서 공통으로 사용합니다.
 - 신규 화면(주문 이력, 주문 가능 근무지 팝업, 이메일 관리·추가 업로드, 추이, 그룹 내 SKU 수치)은 연결하지 않습니다.
 - Product 삭제는 기존 삭제 진입 위치를 보여주는 Product 화면을 연결하며, 팝업에 그 범위를 명시합니다.
@@ -8,7 +9,7 @@
 
 | 화면 ID | 이미지 | Figma 원본 |
 |---|---|---|
-| permission-specific | web-permission.jpg | [원본](https://www.figma.com/design/ByWmomOtYNckN6UwqsZVbn/?node-id=175-16055) |
+| permission-specific | web-preorder-settings.jpg | [대시보드 설정 탭](https://dashboard.shoplworks.com/dv2/pre-order/settings) |
 | campaign-list-leader | web-campaign-list.jpg | [원본](https://www.figma.com/design/ByWmomOtYNckN6UwqsZVbn/?node-id=694-24596) |
 | handraiser-detail | web-campaign-detail.jpg | [원본](https://www.figma.com/design/ByWmomOtYNckN6UwqsZVbn/?node-id=83-7278) |
 | detail-admin | web-order-detail.jpg | [원본](https://www.figma.com/design/ByWmomOtYNckN6UwqsZVbn/?node-id=2074-17769) |
