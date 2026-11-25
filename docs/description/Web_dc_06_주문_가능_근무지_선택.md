@@ -77,4 +77,4 @@
 ## 관련 화면
 
 - [캠페인 Product](Web_dc_04_캠페인_Product.md)
-- [주문 가능 근무지 와이어프레임](http://127.0.0.1:4317/#product-p05)
+- [주문 가능 근무지 와이어프레임](https://saemishin.github.io/pre-order-phase3-wireframe/#product-p05)

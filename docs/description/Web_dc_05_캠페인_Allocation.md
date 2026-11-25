@@ -6,7 +6,7 @@
 
 - 캠페인의 SKU별 배정 수량을 유통사 단위로 설정하는 화면이다.
 - 설정 단위·데이터 보존·검증은 [Product 및 Allocation 정책](../policy/Policy_04_Product_및_Allocation.md)을 따른다.
-- 이번 변경은 공통 파일 업로드와 그룹별 수량 영역의 분리, 프로덕트 그룹 탭 탐색을 다룬다. 파일 처리·수량 관리·상태별 수정 가능 범위는 기존 동작을 유지한다.
+- 파일 처리·수량 관리·상태별 수정 가능 범위는 기존 동작을 유지한다.
 
 ## 1. **상단 헤더·단계 표시**
 
@@ -80,6 +80,4 @@
 ## 관련 화면
 
 - [캠페인 Product](Web_dc_04_캠페인_Product.md)
-- [Allocation 와이어프레임](http://127.0.0.1:4317/#allocation-basic)
-
-와이어프레임의 우측 예시 선택과 ‘처리 완료 예시 보기’는 검토 도구이며 실서비스 UI에 포함하지 않는다.
+- [Allocation 와이어프레임](https://saemishin.github.io/pre-order-phase3-wireframe/#allocation-basic)

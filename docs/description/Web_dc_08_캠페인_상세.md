@@ -126,10 +126,6 @@
 - [캠페인 생성·수정 Hand Raiser](Web_dc_07_캠페인_Hand_raiser.md)
 - [명단 관리 팝업](Web_dc_09_Hand_raiser_명단_관리.md)
 - [주문 상세](Web_dc_01_주문_상세.md)
-- [캠페인 상세 와이어프레임](http://127.0.0.1:4317/#handraiser-detail)
+- [캠페인 상세 와이어프레임](https://saemishin.github.io/pre-order-phase3-wireframe/#handraiser-detail)
 
-설명 패널의 상태 선택과 예시 데이터도 실서비스에 포함하지 않는다.
-
-- [일반 리더 · 조회 전용 케이스](http://127.0.0.1:4317/#handraiser-detail?role=leader): 같은 P06-01 화면의 역할별 상태로 제공한다. 구성원 프로필 팝오버와 기존 수정 화면 연결은 목업에서 재현하지 않는다.
-
-- P06-01의 표시 예시는 ‘Hand Raiser 명단’(있음/0개)과 ‘권한’(관리자/별도 조회 권한 리더/일반 리더 조회 전용), ‘주문·실적’(있음/0건/필터 결과 없음)을 각각 선택한다. 1개·여러 개는 표시 방식이 같으므로 별도 케이스로 구분하지 않는다.
+- [일반 리더 · 조회 전용 케이스](https://saemishin.github.io/pre-order-phase3-wireframe/#handraiser-detail?role=leader)
