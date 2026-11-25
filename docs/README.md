@@ -16,7 +16,6 @@
 
 - [와이어프레임](https://saemishin.github.io/pre-order-phase3-wireframe/)
 - [기능 인덱스](기능_인덱스.md)
-- [게시 이력](Update_History.md)
 - [개발 범위](개발_범위.md): 아이템별 주요 변경과 관련 정책·화면
 - [정책 인덱스](policy/Policy_00_인덱스.md): 정책 영역별 작성 목차
 - [화면 목차](description/Description_00_인덱스.md): 플랫폼·화면별 디스크립션 작성 목차
